@@ -1,12 +1,5 @@
 ﻿using System;
 
-namespace EnthusiasticMoose
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
-}
+System.Console.WriteLine(@"Welcome to the Enthusiastic Moose Simulator!
+--------------------------------------------
+");
